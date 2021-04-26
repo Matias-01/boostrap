@@ -1,0 +1,12 @@
+/*Se que Leo dijo que no toquemos el css, pero modifique cosas minimas que no me gustaba como quedaban
+y no sabia hacerlas en el html*/
+
+.card-body h1 {
+	font-size: 24px;
+}
+a {
+	text-decoration: none;
+}
+h2 {
+	margin-bottom: 50px;
+}
